@@ -293,8 +293,8 @@ function Navbar() {
                   <a href="#" className="flex items-center text-gray-700 ">
                     <img
                       className="inline-block w-10 h-10 rounded-full"
-                      src="https://overreacted.io/static/profile-pic-c715447ce38098828758e525a1128b87.jpg"
-                      alt="Dan_Abromov"
+                      src="https://img.freepik.com/premium-vector/3d-smiling-women-avatar-happy-face-icon-character-vector_313242-1220.jpg?w=1380"
+                      alt="Shreya's Shopping"
                     />
                   </a>
                 </div>
